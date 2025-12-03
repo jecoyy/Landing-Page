@@ -15,7 +15,6 @@ header {
 header .container {
     display: flex;
     flex-direction: row;
-    background-color: #1F2937;
     justify-content: space-between;
     margin: auto;
     max-width: 80%;
@@ -217,6 +216,6 @@ footer {
 }
 
 .footer-text {
-    font: 24px;
+    font-size: 24px;
     color: #e5e7eb;
 }
